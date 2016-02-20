@@ -2164,8 +2164,8 @@
 		"zpos"			"11"
 		"wide"			"270"
 		"tall"			"36"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"PaintBackgroundType"	"0"
 
 		"navUp"			"PlayPVEButton"
