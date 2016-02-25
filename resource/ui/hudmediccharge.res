@@ -11,7 +11,7 @@
 		"tall"			"65"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"../hud/medic_charge_blue_bg"
+		"image"			"../hud/medic_charge_blue_bg"-
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/medic_charge_red_bg"
 		"teambg_3"		"../hud/medic_charge_blue_bg"				
@@ -39,6 +39,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Photographs64"
+		"fgcolor" "255 255 255 255"
 	}
 	
 

@@ -9,7 +9,7 @@
 		"PositiveColor"			"0 28 255 140"
 		"NegativeColor"			"255 255 255 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"Photographs18"
-		"delta_item_font_big"	"Photographs32"
+		"delta_item_font"		"Photographs18dam"
+		"delta_item_font_big"	"Photographs18dam"
 	}
 }

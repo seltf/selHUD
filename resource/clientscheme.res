@@ -2842,8 +2842,45 @@ Scheme
 			}
 		}
 		
-	// CUSTOM FONTS 
-	
+		// CUSTOM FONTS 
+				
+		menufont
+		{
+		"1"
+			{
+			"name" "The Bold Font"
+			"tall" "18"
+			"antialias" "1"
+			}	
+		}
+		boldfont24
+		{
+		"1"
+			{
+			"name" "The Bold Font"
+			"tall" "24"
+			"antialias" "1"
+			}
+		}
+				boldfont48
+		{
+		"1"
+			{
+			"name" "The Bold Font"
+			"tall" "48"
+			"antialias" "1"
+			}
+		}
+				boldfontdamage
+		{
+		"1"
+			{
+			"name" "The Bold Font"
+			"tall" "18"
+			"antialias" "1"
+			"outline" "1"
+			}
+		}
 		Photographs12
 		{
 			"1"
@@ -2871,6 +2908,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		Photographs18dam
+		{
+			"1"
+			{
+				"name"		"Photographs"
+				"tall"		"18"
+				"antialias" "1"
+				"outline" "1"
+			}
+		}
 		Photographs24
 		{
 			"1"
@@ -2887,6 +2934,16 @@ Scheme
 				"name"		"Photographs"
 				"tall"		"32"
 				"antialias" "1"
+			}
+		}
+		Photographs32Outline
+		{
+			"1"
+			{
+				"name"		"Photographs"
+				"tall"		"32"
+				"antialias" "1"
+				"outline" "1"
 			}
 		}
 		Photographs48
@@ -5252,6 +5309,11 @@ Scheme
 		{
 			"font" "resource/fonts/Photographs.ttf"
 			"name" "Photographs"
+		}
+				"9"
+		{
+			"font" "resource/fonts/theboldfont.ttf"
+			"name" "The Bold Font"
 		}
 	}
 }
